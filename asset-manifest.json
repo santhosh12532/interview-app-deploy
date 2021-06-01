@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/interview-app-deploy/static/css/main.74c2ddfe.chunk.css",
+    "main.js": "/interview-app-deploy/static/js/main.33a5f0fc.chunk.js",
+    "main.js.map": "/interview-app-deploy/static/js/main.33a5f0fc.chunk.js.map",
+    "runtime-main.js": "/interview-app-deploy/static/js/runtime-main.47f6b9a8.js",
+    "runtime-main.js.map": "/interview-app-deploy/static/js/runtime-main.47f6b9a8.js.map",
+    "static/js/2.0448d740.chunk.js": "/interview-app-deploy/static/js/2.0448d740.chunk.js",
+    "static/js/2.0448d740.chunk.js.map": "/interview-app-deploy/static/js/2.0448d740.chunk.js.map",
+    "static/js/3.0b1a10c4.chunk.js": "/interview-app-deploy/static/js/3.0b1a10c4.chunk.js",
+    "static/js/3.0b1a10c4.chunk.js.map": "/interview-app-deploy/static/js/3.0b1a10c4.chunk.js.map",
+    "index.html": "/interview-app-deploy/index.html",
+    "static/css/main.74c2ddfe.chunk.css.map": "/interview-app-deploy/static/css/main.74c2ddfe.chunk.css.map",
+    "static/js/2.0448d740.chunk.js.LICENSE.txt": "/interview-app-deploy/static/js/2.0448d740.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47f6b9a8.js",
+    "static/js/2.0448d740.chunk.js",
+    "static/css/main.74c2ddfe.chunk.css",
+    "static/js/main.33a5f0fc.chunk.js"
+  ]
+}
