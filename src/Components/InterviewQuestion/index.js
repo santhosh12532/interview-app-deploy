@@ -41,7 +41,7 @@ class InterviewQuestion extends Component {
         if(option2===""){
             return <div>
                 <li className="option" onClick={this.renderClickedValue} value={option1}>{option1}</li>
-                <li className="option" onClick={this.renderClickedValue} value={correct_answer}>{correct_answer}</li>
+                <li className={`${correctOptionClass}`} onClick={this.renderClickedValue} value={correct_answer}>{correct_answer}</li>
 
             </div>
         }
